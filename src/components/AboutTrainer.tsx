@@ -14,19 +14,18 @@ export function AboutTrainer() {
             <div>
               <p className="text-accent font-semibold text-sm uppercase tracking-wide">О наставнике</p>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-                Ваш коуч по успеху в VA
+                Эксперт, который сам прошёл этот путь
               </h2>
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Более 10 лет опыта в виртуальном ассистировании и бизнес-операциях. Я помогла сотням
-              специалистов освоить навыки, необходимые для успеха в этой динамичной сфере.
+              10+ лет в сфере виртуального ассистирования — от фриланса до руководства командой из 20 VA.
+              Я знаю, что ищут работодатели, и передаю это знание каждому ученику.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Моя экспертиза охватывает административный менеджмент, коммуникацию с клиентами, координацию
-              проектов и владение цифровыми инструментами. Опыт работы с компаниями Fortune 500 и стартапами
-              дает мне уникальное понимание того, что действительно ценят работодатели.
+              Моя методика основана на реальных проектах, а не теории. Вы сразу работаете с живыми задачами:
+              CRM-системы, управление почтой и календарями, координация команд, работа с зарубежными клиентами.
             </p>
 
             <div className="space-y-4 pt-4">
@@ -35,8 +34,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Сертифицированный коуч VA</p>
-                  <p className="text-sm text-muted-foreground">Признание лидерами отрасли</p>
+                  <p className="font-semibold text-foreground">Международный сертификат VA</p>
+                  <p className="text-sm text-muted-foreground">Признан ведущими HR-платформами</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -44,8 +43,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">500+ выпускников</p>
-                  <p className="text-sm text-muted-foreground">95% карьерного роста</p>
+                  <p className="font-semibold text-foreground">500+ выпускников по всему миру</p>
+                  <p className="text-sm text-muted-foreground">95% нашли работу в течение 60 дней</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -53,8 +52,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Персональный подход</p>
-                  <p className="text-sm text-muted-foreground">Адаптация под ваши цели</p>
+                  <p className="font-semibold text-foreground">Поддержка после обучения</p>
+                  <p className="text-sm text-muted-foreground">Помогаю с резюме, откликами и первым клиентом</p>
                 </div>
               </div>
             </div>
